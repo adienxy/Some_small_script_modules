@@ -11,7 +11,7 @@
 
 随机打散为
 
-|  label   | text  |
+|  text   | label  |
 |  ----  | ----  |
 | BBB  | 1 |
 | CCC  | 2 |
